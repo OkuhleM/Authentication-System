@@ -1,0 +1,29 @@
+{
+  "name": "authentication-system",
+  "version": "1.0.0",
+  "description": "Create an authentication system that enables a user to Register, LogIn, LogOut",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OkuhleM/Authentication-System.git"
+  },
+  "keywords": [
+    "Register",
+    "LogIn",
+    "LogOut"
+  ],
+  "author": "Lindokuhle Mazibuko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OkuhleM/Authentication-System/issues"
+  },
+  "homepage": "https://github.com/OkuhleM/Authentication-System#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  }
+}
